@@ -1,7 +1,7 @@
 numpy
 pandas
 plotly
-matplotlib
+matplotlib==3.4.3
 datetime
 timedelta
 yfinance
