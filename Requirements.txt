@@ -1,7 +1,7 @@
 numpy
 pandas
-matplotlib
-plotly
+matplotlib.pyplot
+plotly.graph_objects 
 datetime
 timedelta
 yfinance
